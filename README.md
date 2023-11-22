@@ -37,3 +37,8 @@ The development of the project will be phases. In the first phase of the project
 ### Consultation Feedback
 ### Profile Management
 ### Navigation
+
+
+## Instalation instructions
+
+
